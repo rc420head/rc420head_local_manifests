@@ -31,9 +31,13 @@
   <project name="SlimRoms/kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="kk4.4" />
   <project name="Theloonybin/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="kk4.4" />
-  <project name="rc420head/device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="ck44" />
+  <project name="rc420head/device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="kk4.4" />
-  
+  <project name="SlimRoms/device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" revision="kk4.4" />
+  <project name="rc420head/device_samsung_d2lte" path="device/samsung/d2lte" remote="github" revision="ck44" />
+  <project name="cyanogenmod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="cm-11.0" />
+  <project name="rc420head/device_samsung_t0lte" path="device/samsung/t0lte" remote="github" revision="cm-11.0" />
   
   # lg devices
   
@@ -44,7 +48,7 @@
   
   # oppo/oneplus devices
   
-  <project name="rc420head/device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="ck44" />
+  <project name="rc420head/android_device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="ck44" />
   <project name="SlimRoms/kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_oppo_common" path="device/oppo/common" remote="github" revision="kk4.4" />
@@ -53,4 +57,3 @@
   
   # motorola devices
 </manifest>
-
