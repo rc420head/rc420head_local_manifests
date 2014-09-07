@@ -20,6 +20,3 @@ lg
 oneplus
  bacon 
  
- full set of builds
- 
- . build/envsetup.sh && brunch bacon && brunch d801 && brunch i9300 && brunch m8 && brunch m7vzw && brunch m7spr && brunch m7 && brunch evita && brunch d2lte && brunch ville && mv ~/candykat/out/target/product/ville ~/path/outside/source/215 && cd ~/candykat/device/htc/ville && git checkout ck44216 && cd ~/candykat && brunch ville -j# (#=twice your cpu cores)
