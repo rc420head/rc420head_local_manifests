@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="device_lge_h872" path="device/lge/h872" remote="aqua-devices" revision="a8.1.0-caf" />
-  <project name="device_lge_h870" path="device/lge/h870" remote="aqua-devices" revision="a8.1.0-caf" />
-  <project name="device_lge_g6-common" path="device/lge/g6-common" remote="aqua-devices" revision="a8.1.0-caf" />
-  <project name="device_lge_msm8996-common" path="device/lge/msm8996-common" remote="aqua-devices" revision="a8.1.0-caf" />
-  <project name="rashed97/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" revision="charging" />
-  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="lineage-15.1" />
+  <project name="fezzy102/device_lge_h872" path="device/lge/h872" remote="github" revision="a8.1.0-caf" />
+  <project name="fezzy102/device_lge_g6-common" path="device/lge/g6-common" remote="github" revision="a8.1.0-caf" />
+  <project name="fezzy102/device_lge_msm8996-common" path="device/lge/msm8996-common" remote="github" revision="a8.1.0-caf" />
+  <project name="LineageOS/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" revision="lineage-15.1" />
+  <project name="fezzy102/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="lineage-15.1" />
   <project path="hardware/qcom/display-caf-los8996" name="hardware_qcom_display-caf-los8996" remote="aqua-caf" revision="a8.1.0-aqua-caf" />
   <project path="hardware/qcom/media-caf-los8996" name="hardware_qcom_media-caf-los8996" remote="aqua-caf" revision="a8.1.0-aqua-caf" />
 </manifest>
